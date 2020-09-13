@@ -1,5 +1,6 @@
 import './style.css';
 
+import Icon from './icon.svg';
 import _ from 'lodash';
 
 function component() {
@@ -11,6 +12,12 @@ function component() {
     ' '
   );
   element.classList.add('hello');
+
+  // Add the image to our existing div.
+  const myIcon = new Image();
+  myIcon.src = Icon;
+
+  element.appendChild(myIcon);
 
   return element;
 }

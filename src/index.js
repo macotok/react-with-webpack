@@ -1,3 +1,5 @@
+import './style.css';
+
 import _ from 'lodash';
 
 function component() {
@@ -8,6 +10,7 @@ function component() {
     ['Hello', 'webpack', 'with', 'webpack-config.js'],
     ' '
   );
+  element.classList.add('hello');
 
   return element;
 }

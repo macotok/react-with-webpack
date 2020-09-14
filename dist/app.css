@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "MyFont";
+  font-style: normal;
+  font-weight: 600;
+  src: url(faaad004d3fec9f6b77cfc1c13bbad39.woff) format("woff");
+}
+.hello {
+  background: url(ad17d74a1fd87296fca9aab35d84ea3e.svg) no-repeat;
+  color: blue;
+  font-family: "MyFont";
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vc3JjL3N0eWxlLnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBRUE7RUFDRTtFQUNBO0VBQ0E7RUFDQTtBQURGO0FBSUE7RUFDRTtFQUNBLFdBWE07RUFZTjtBQUZGLEMiLCJmaWxlIjoiYXBwLmNzcyIsInNvdXJjZXNDb250ZW50IjpbIiRjb2xvcjogYmx1ZTtcblxuQGZvbnQtZmFjZSB7XG4gIGZvbnQtZmFtaWx5OiAnTXlGb250JztcbiAgZm9udC1zdHlsZTogbm9ybWFsO1xuICBmb250LXdlaWdodDogNjAwO1xuICBzcmM6IHVybCgnLi9teS1mb250LndvZmYnKSBmb3JtYXQoJ3dvZmYnKTtcbn1cblxuLmhlbGxvIHtcbiAgYmFja2dyb3VuZDogdXJsKCcuL2ljb24uc3ZnJykgbm8tcmVwZWF0O1xuICBjb2xvcjogJGNvbG9yO1xuICBmb250LWZhbWlseTogJ015Rm9udCc7XG59XG4iXSwic291cmNlUm9vdCI6IiJ9*/

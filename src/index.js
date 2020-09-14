@@ -1,4 +1,4 @@
-import './style.css';
+import './style.scss';
 
 import Icon from './icon.svg';
 import _ from 'lodash';

@@ -1,3 +1,5 @@
+$color: blue;
+
 @font-face {
   font-family: 'MyFont';
   font-style: normal;
@@ -7,6 +9,6 @@
 
 .hello {
   background: url('./icon.svg') no-repeat;
-  color: red;
+  color: $color;
   font-family: 'MyFont';
 }
